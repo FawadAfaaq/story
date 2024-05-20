@@ -1,1 +1,2 @@
-Trying to learn git version control system using command linegit 
+Trying to learn git version control system using command line,
+n making changes to reflect alien theme
